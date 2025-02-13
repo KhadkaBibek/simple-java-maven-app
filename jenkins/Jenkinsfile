@@ -1,6 +1,6 @@
 pipeline {
     agent {
-        level 'server1'
+        lebel 'server1'
     }
     stages {
         stage('Build') {
